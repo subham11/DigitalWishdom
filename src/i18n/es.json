@@ -1,0 +1,20 @@
+{
+    "login": {
+      "title": "Iniciar sesión",
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "button": "Entrar"
+    },
+    "dashboard": {
+      "title": "Tablero"
+    },
+    "tabs": {
+      "tab2": "Pestaña 2",
+      "tab3": "Pestaña 3",
+      "tab4": "Pestaña 4"
+    },
+    "settings": {
+      "title": "Configuración"
+    }
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "button": "Login"
+    },
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "tabs": {
+      "tab2": "Tab 2",
+      "tab3": "Tab 3",
+      "tab4": "Tab 4"
+    },
+    "settings": {
+      "title": "Settings"
+    }
+  }
+  
